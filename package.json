@@ -1,0 +1,20 @@
+{
+  "name": "react-icons-kit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nuklearfiziks/react-icons-kit--mastodon.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nuklearfiziks/react-icons-kit--mastodon/issues"
+  },
+  "homepage": "https://github.com/nuklearfiziks/react-icons-kit--mastodon#readme"
+}
